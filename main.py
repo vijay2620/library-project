@@ -55,5 +55,6 @@ def delete():
     return redirect(url_for('home'))
 
 if __name__ == "__main__":
+    print("Git Testing")
     app.run(debug=True)
 
