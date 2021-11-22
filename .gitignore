@@ -1,1 +1,5 @@
 *
+.idea/*
+requirements.txt
+poetry.lock
+pyproject.toml
