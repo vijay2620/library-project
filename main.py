@@ -56,5 +56,6 @@ def delete():
 
 if __name__ == "__main__":
     print("Git Testing")
+    print("Add another line")
     app.run(debug=True)
 
